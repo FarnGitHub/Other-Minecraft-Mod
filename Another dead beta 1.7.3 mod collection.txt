@@ -1,4 +1,2 @@
 r-odia
 https://github.com/r-odia/mcmods
-
-https://github.com/williamistGitHub/not-many-items
