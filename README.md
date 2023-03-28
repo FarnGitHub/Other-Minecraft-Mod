@@ -1,1 +1,2 @@
-This repo include most of my minecraft mod that i decide to not give source of my mod
+A Repo that contain Most of my minecraft mod
+Usually version before beta 1.8
